@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Data
+data/
+
+# Database
+*.db
+
+# Model files
+config/model/*.h5
+config/model/**/*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
