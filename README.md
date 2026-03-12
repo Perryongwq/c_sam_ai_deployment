@@ -2,8 +2,6 @@
 
 **Version:** v2.2.5
 
-C-SAM AI Server is a containerized application for automated visual inspection of MLCC (Multi-Layer Ceramic Capacitor) components using C-SAM (C-mode Scanning Acoustic Microscopy) images. It uses deep learning models (TensorFlow/Keras `.h5`) to classify images as **G** (Good) or **NG** (No Good).
-
 ## Architecture
 
 The application runs two containers via Podman Compose:
