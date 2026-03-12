@@ -10,6 +10,8 @@ data/
 # Model files
 config/model/*.h5
 config/model/**/*.h5
+config/model/*.txt
+config/model/**/*.txt
 
 # Python
 __pycache__/
