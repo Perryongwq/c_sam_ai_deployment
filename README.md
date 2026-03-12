@@ -91,7 +91,7 @@ Models are stored in `config/model/` and consist of:
 - **`.h5`** — Keras model weights
 - **`.txt`** — Class label mapping (e.g., `0 G`, `1 NG`)
 
-Models are named by item code (e.g., `NFM21HC105R1C3_+00-74-A0100.h5`).
+Models are named by item code.
 
 ## Container Management
 
