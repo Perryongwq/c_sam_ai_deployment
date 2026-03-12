@@ -41,5 +41,5 @@ podman compose -f docker-compose.yml up --build -d
 REM Keep the window open to view logs (optional)
 pause
 
-REM Stop and remove docker compose
+REM Stop and remove podman compose
 podman compose -f docker-compose.yml down
